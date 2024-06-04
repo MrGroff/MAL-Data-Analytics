@@ -1,6 +1,7 @@
 # MAL-Data-Analytics
 a project where i analyze anime
 
+NOTE: data not in github currently, if anyone sees this and wants to collect data before I upload it, refer to https://docs.api.jikan.moe/
 
 currently this is the beginning stages where I have collected the data and have programs where I test basic data analytics on local json files
 
